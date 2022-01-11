@@ -13,3 +13,6 @@ We have implemented the following imbalance data handeling techniques:
 8. Change the performance metric
 9. Penalize Algorithms (Cost-Sensitive Training)
 10. Change the algorithm
+https://elitedatascience.com/imbalanced-classes
+https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
+ 
